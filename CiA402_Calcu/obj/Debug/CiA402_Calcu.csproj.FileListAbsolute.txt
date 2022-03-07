@@ -1,0 +1,43 @@
+c:\users\jfchang\documents\visual studio 2017\Projects\CiA402_Calcu\CiA402_Calcu\bin\Debug\CiA402_Calcu.exe.config
+c:\users\jfchang\documents\visual studio 2017\Projects\CiA402_Calcu\CiA402_Calcu\bin\Debug\CiA402_Calcu.exe
+c:\users\jfchang\documents\visual studio 2017\Projects\CiA402_Calcu\CiA402_Calcu\bin\Debug\CiA402_Calcu.pdb
+c:\users\jfchang\documents\visual studio 2017\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.csprojResolveAssemblyReference.cache
+c:\users\jfchang\documents\visual studio 2017\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\MainWindow.g.cs
+c:\users\jfchang\documents\visual studio 2017\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\App.g.cs
+c:\users\jfchang\documents\visual studio 2017\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu_MarkupCompile.cache
+c:\users\jfchang\documents\visual studio 2017\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu_MarkupCompile.lref
+c:\users\jfchang\documents\visual studio 2017\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\MainWindow.baml
+c:\users\jfchang\documents\visual studio 2017\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.g.resources
+c:\users\jfchang\documents\visual studio 2017\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.Properties.Resources.resources
+c:\users\jfchang\documents\visual studio 2017\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.csproj.GenerateResource.Cache
+c:\users\jfchang\documents\visual studio 2017\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.exe
+c:\users\jfchang\documents\visual studio 2017\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.pdb
+C:\Users\jfchang\Documents\Visual Studio 2015\Projects\CiA402_Calcu\CiA402_Calcu\bin\Debug\CiA402_Calcu.exe.config
+C:\Users\jfchang\Documents\Visual Studio 2015\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.exe
+C:\Users\jfchang\Documents\Visual Studio 2015\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.pdb
+C:\Users\jfchang\Documents\Visual Studio 2015\Projects\CiA402_Calcu\CiA402_Calcu\bin\Debug\CiA402_Calcu.exe
+C:\Users\jfchang\Documents\Visual Studio 2015\Projects\CiA402_Calcu\CiA402_Calcu\bin\Debug\CiA402_Calcu.pdb
+C:\Users\jfchang\Documents\Visual Studio 2015\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\MainWindow.g.cs
+C:\Users\jfchang\Documents\Visual Studio 2015\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\App.g.cs
+C:\Users\jfchang\Documents\Visual Studio 2015\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu_MarkupCompile.cache
+C:\Users\jfchang\Documents\Visual Studio 2015\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu_MarkupCompile.lref
+C:\Users\jfchang\Documents\Visual Studio 2015\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\MainWindow.baml
+C:\Users\jfchang\Documents\Visual Studio 2015\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.g.resources
+C:\Users\jfchang\Documents\Visual Studio 2015\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.Properties.Resources.resources
+C:\Users\jfchang\Documents\Visual Studio 2015\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.csproj.GenerateResource.Cache
+C:\Users\jfchang\Documents\Visual Studio 2015\Projects\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.csprojResolveAssemblyReference.cache
+S:\R3部三課\個人資料夾\張競方\CiA402_Calcu\CiA402_Calcu\bin\Debug\CiA402_Calcu.exe.config
+S:\R3部三課\個人資料夾\張競方\CiA402_Calcu\CiA402_Calcu\bin\Debug\CiA402_Calcu.exe
+S:\R3部三課\個人資料夾\張競方\CiA402_Calcu\CiA402_Calcu\bin\Debug\CiA402_Calcu.pdb
+S:\R3部三課\個人資料夾\張競方\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.csprojAssemblyReference.cache
+S:\R3部三課\個人資料夾\張競方\CiA402_Calcu\CiA402_Calcu\obj\Debug\MainWindow.g.cs
+S:\R3部三課\個人資料夾\張競方\CiA402_Calcu\CiA402_Calcu\obj\Debug\App.g.cs
+S:\R3部三課\個人資料夾\張競方\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu_MarkupCompile.cache
+S:\R3部三課\個人資料夾\張競方\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu_MarkupCompile.lref
+S:\R3部三課\個人資料夾\張競方\CiA402_Calcu\CiA402_Calcu\obj\Debug\MainWindow.baml
+S:\R3部三課\個人資料夾\張競方\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.g.resources
+S:\R3部三課\個人資料夾\張競方\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.Properties.Resources.resources
+S:\R3部三課\個人資料夾\張競方\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.csproj.GenerateResource.cache
+S:\R3部三課\個人資料夾\張競方\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.csproj.CoreCompileInputs.cache
+S:\R3部三課\個人資料夾\張競方\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.exe
+S:\R3部三課\個人資料夾\張競方\CiA402_Calcu\CiA402_Calcu\obj\Debug\CiA402_Calcu.pdb
