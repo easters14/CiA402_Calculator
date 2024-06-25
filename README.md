@@ -1,4 +1,5 @@
-# CiA402_Calculator
+#0x6040 0x6041 state machine parser for CiA402 profile
+
 Calculator for CiA402 Controlword &amp; Statusword
 
 A parser for CiA402 object 0x6040 Controlword and 0x6041 Statusword.
